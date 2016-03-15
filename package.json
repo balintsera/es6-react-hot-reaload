@@ -1,13 +1,13 @@
 {
   "name": "es6-react-setup",
   "version": "1.0.0",
-  "description": "es6-react-setub",
+  "description": "es6-react-setup",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "balint.sera@gmail.com",
+  "license": "MIT",
   "dependencies": {
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
